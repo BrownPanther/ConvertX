@@ -1,0 +1,5 @@
+ID,Name,Role,Department,Active
+1001,Priya Raman,Design Lead,Product,true
+1002,Tom Okafor,Backend Engineer,Engineering,true
+1003,Sofia Marchetti,Account Manager,Sales,false
+1004,Daniel Weber,Data Analyst,Product,true

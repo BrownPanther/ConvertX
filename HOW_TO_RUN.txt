@@ -1,0 +1,16 @@
+CONVERTX - FINAL RUN INSTRUCTIONS
+
+1. Install Java 17+.
+2. Install Maven 3.9+.
+3. Open PowerShell/CMD in this folder.
+4. Run:
+
+   mvn clean test
+   mvn clean package
+   java -jar target\convertx-1.0.0.jar
+
+Windows users can also double-click build-and-run.bat.
+
+FFmpeg is only required for audio/video conversions.
+
+Use FINAL_TEST_PLAN.md for the verification checklist.

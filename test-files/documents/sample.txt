@@ -1,0 +1,7 @@
+Sample text file
+This file is for testing ConvertX.
+
+Accented characters: café, naïve, Zürich, Łódź
+Non-Latin scripts: 日本語, العربية, Ελληνικά, हिन्दी
+Punctuation: "quotes", 'apostrophes', em — dashes
+A tab	between two words.

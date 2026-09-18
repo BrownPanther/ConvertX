@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="1001"><name>Priya Raman</name><role>Design Lead</role><active>true</active></employee>
+  <employee id="1002"><name>Tom Okafor</name><role>Backend Engineer</role><active>true</active></employee>
+  <employee id="1003"><name>Sofia Marchetti</name><role>Account Manager</role><active>false</active></employee>
+</employees>

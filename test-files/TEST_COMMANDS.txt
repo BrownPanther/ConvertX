@@ -1,0 +1,40 @@
+CONVERTX TEST PLAN
+
+Start:
+java -jar target\convertx-1.0.0.jar
+
+Interactive Option 1:
+Input: test-pack\documents\sample.txt
+Output: test-pack\documents\converted.pdf
+
+Recommended conversions:
+TXT -> PDF
+DOCX -> PDF
+DOCX -> TXT
+CSV -> JSON
+CSV -> XML
+CSV -> XLSX
+XLSX -> CSV
+JSON -> XML
+XML -> JSON
+PNG -> JPG
+JPG -> PNG
+PNG -> PDF
+PDF -> TXT
+
+Algorithm tests:
+Find BFS Path: DOCX -> JPG
+Find Best Path: DOCX -> JPG
+
+Expected automatic concept:
+DOCX -> PDF -> JPG
+
+PDF utility:
+PDF Merge
+PDF Split
+
+Archive:
+ZIP extraction
+
+Audio:
+sample.wav -> sample.mp3 (requires FFmpeg)
